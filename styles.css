@@ -1,1 +1,11 @@
-/* your code */
+.head{
+background-color: red;
+}
+.table{
+    border-style:inset;
+    
+}
+*{
+    font-family: sans-serif;
+    
+}
